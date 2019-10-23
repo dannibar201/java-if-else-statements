@@ -56,31 +56,41 @@ public class IfElseStatements {
     }
 
     public static void question4() {
-        System.out.println("Enter a number");
-        int num = kb.nextInt();
-    }
-        if (num % 5 == 0) {
-            System.out.println("MULTIPLE OF 5");
-        }
     
-
-   
-        else
-        {
-        
-System.out.println("NOT A MULTIPLE OF 5");
+    
+    
+    
+    
+    
     }
 
     public static void question5() {
 
+        
+        
+        
+        
     }
 
     public static void question6() {
 
+        
+        
+        
+        
+        
     }
 
     public static void question7() {
 
+        
+        
+        
+        
+        
+        
+        
+        
     }
 
     public static void question8() {
